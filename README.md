@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 <!--## Hi there 👋-->
 
-## Welcome to My GitHub Profile!
-
-### Ojasva Singh
+### 🙋🏻‍♂️ Hi, I'm Ojasva Singh.
 
 - 📞 7838067886  
 - 📧 [ojasva963@gmail.com](mailto:ojasva963@gmail.com)  
@@ -42,9 +40,6 @@ Here are some ideas to get you started:
    - Advanced AI techniques, including LLMs like **Falcon**, **PaLM**, and **ChatGPT** for generative applications.
    - Deepening my understanding of scalable web applications, backend development, and secure encryption methods.
 
-- 📂 **Projects:**
-   - **Cyber Bullying Classification on Twitter:** Achieved 94% accuracy in identifying cyberbullying using **Random Forest** and **SVM** models. [Project Link](https://github.com/lucious20318/Cyber-Bullying-ML-Classification-)
-   - **Multi-Layer Perceptron on Image Dataset:** Implemented a neural network model to classify images with **ReLU activation**, achieving optimal test accuracy. [Project Link](https://github.com/lucious20318/Machine-Learning---A3/tree/main)
 
 - 📫 **How to reach me:**
    - [Email](mailto:ojasva963@gmail.com)
