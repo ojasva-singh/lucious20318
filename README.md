@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 - 📞 7838067886  
 - 📧 [ojasva963@gmail.com](mailto:ojasva963@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ojasvasingh/)  
-- 👨‍💻 [GitHub](https://github.com/lucious20318)
+- 👨‍💻 [GitHub](https://github.com/ojasva-singh)
